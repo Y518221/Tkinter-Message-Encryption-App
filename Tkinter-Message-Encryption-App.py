@@ -1,3 +1,36 @@
+"""
+******************************************************
+* Project Name: Tkinter Message Encryption App
+* Description: A Tkinter-based encryption application that mimics a phone screen interface for a user-friendly experience.
+* Author: Yassine Selmi
+* LinkedIn: https://www.linkedin.com/in/yassine-selmi-1ba600260/
+* Email: [yassineselmi629@gmail.com]
+* GitHub: [https://github.com/Y518221]
+* Version: 1.0.0
+
+* Features:
+    - Encrypts and decrypts text using secure encryption algorithms.
+    - Minimalistic and intuitive GUI inspired by mobile phone layouts.
+    - Allows users to securely store sensitive information.
+    - Built with Python and Tkinter for cross-platform compatibility.
+
+* Usage Instructions:
+    1. Run the program using Python 3.8+.
+    2. Enter the text to encrypt/decrypt in the designated field.
+    3. Click the respective button to process the text.
+    4. Save the encrypted/decrypted text for later use.
+
+* Notes:
+    - Encryption algorithms used: [Specify algorithms, e.g., AES, RSA, etc.]
+    - Always keep your encryption key secure to avoid unauthorized access.
+    - The app is meant for educational and personal use only.
+
+* Acknowledgments:
+    - Thanks to the open-source community for inspiring the development of this project.
+
+******************************************************
+"""
+
 import tkinter as tk
 from tkinter import messagebox
 import base64
